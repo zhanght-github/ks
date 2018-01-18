@@ -1,0 +1,6 @@
+domain    数据表映射类
+dao       数据持久化类
+services  服务逻辑类
+appaction app操作控制类
+webaction web操作控制类
+commons   公用工具类
